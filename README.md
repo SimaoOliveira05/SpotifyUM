@@ -29,8 +29,8 @@ Main features include:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/spotifum.git
-cd spotifum
+git clone https://github.com/SimaoOliveira05/SpotifyUM.git
+cd Spotifum
 
 # Compile the project
 mvn clean install
