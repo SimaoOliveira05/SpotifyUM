@@ -37,3 +37,11 @@ mvn clean install
 
 # Run the application
 mvn exec:java -Dexec.mainClass="com.spotifum.Main"
+
+```
+## Authors
+
+- *Gabriel Dantas* -> [@gabil88](https://github.com/gabil88)
+- *José Fernandes* -> [@JoseLourencoFernandes](https://github.com/JoseLourencoFernandes)
+- *Simão Oliveira* -> [@SimaoOliveira05](https://github.com/SimaoOliveira05)
+
