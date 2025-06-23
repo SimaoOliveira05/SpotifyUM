@@ -27,6 +27,11 @@ Main features include:
 
 ### Build & Run
 
+```bash
+# Clone the repo
+git clone https://github.com/your-username/spotifum.git
+cd spotifum
+
 # Compile the project
 mvn clean install
 
